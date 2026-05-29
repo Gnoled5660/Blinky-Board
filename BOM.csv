@@ -1,4 +1,4 @@
-Product, Cost (USD), Quantity, Purpose, Link,
+Product, Cost (USD), Quantity, Purpose, Link
 PCB, 9, 1, Main Circuit Board, JLCPCB
 Capacitor, ,1, Polarized capacitor,
 Capacitor, ,1, Unpolarized capacitor, 
