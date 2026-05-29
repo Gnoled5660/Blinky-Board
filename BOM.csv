@@ -1,10 +1,10 @@
 Product, Cost (USD), Quantity, Purpose, Link
 PCB, 9, 1, Main Circuit Board, JLCPCB
-Capacitor, ,1, Polarized capacitor,
-Capacitor, ,1, Unpolarized capacitor, 
-LED, ,10, LED Light,
-Resistor, ,1, Protect LED, 
-Resistor, ,1, Used as signal transmission,
-Potentiometer, ,1, regulate LED speed, 
-NE555P, ,1, Timer LED light ticks, 
-CD4017BE, ,1, Control the LED, 
+Capacitor, 0.35 ,1, Polarized capacitor, https://funduinoshop.com/en/components/passive-components/capacitors/electrolytic-capacitor-1uf/10v-wired?srsltid=AfmBOoqQb9FdG2kZhFFF8t9O4ZeooY8B8Vc7vT1f7no0LNA92BrHZAAq1vs
+Capacitor, 1.04 ,1, Unpolarized capacitor, https://www.ato.com/0-01μf-100v-ceramic-capacitor?srsltid=AfmBOopM3fsIMGztJ4Eb13Ih4VceLfDsE1TTEYmty6XPt7SKBsVQ0h2B8fc
+LED, 1.05,10, LED Light, https://www.reichelt.de/de/de/shop/produkt/led_5_mm_bedrahtet_rot_125_mcd_50_-230920?PROVID=2788&gad_source=1&gad_campaignid=1622074784&gbraid=0AAAAADwnxtYttPF1qFPd3ojxD8FZORBnV&gclid=CjwKCAjw8uTQBhAdEiwAVvtJylfEAOlZW_L9oNiOpzpATob4SK8bXNGZA16wMTo33nh2u6PFvbRaFxoC_v0QAvD_BwE
+Resistor, 0.15 ,1, Protect LED, https://www.reichelt.de/de/de/shop/produkt/widerstand_metalloxidschicht_470_ohm_0414_2_w_5_-2354
+Resistor, 0.08,1, Used as signal transmission, https://www.reichelt.de/de/de/shop/produkt/melf_widerstand_0204_1k_ohm_400_mw_1_-277763
+Potentiometer, 2.10,1, regulate LED speed, https://www.reichelt.de/de/de/shop/produkt/praezisionspotentiometer_25_gaenge_stehend_50_kohm-2710
+NE555P, 0.3, 1, Timer LED light ticks, https://www.reichelt.de/de/de/shop/produkt/timer-ic_typ_555_dip-8-13397
+CD4017BE, 1.05,1, Control the LED, https://www.reichelt.de/de/de/shop/produkt/flip-flop_d-type_cmos_3_15_v_dip-16-12564
