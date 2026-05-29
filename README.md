@@ -10,4 +10,6 @@ The first step was to wire the logical symbols. The PCB is mainly split into two
 
 The next step was to assign the footprints. After assigning them, I needed to actually wire them. Since this is a two layer PCB, it was either first layer or second layer. I tried to organize the wires but it felt impossible. In the end, I managed to wire everything. However, it looks super chaotic to me. I will try and do better next time! Some 3D models were not available in KiCad which is why, I had to download them from a website.
 
+I added a bunch of memes on the board, so that it doesn't look empty. It looks really cool to me with all the prints on the board.
+
 <img width="652" height="622" alt="Bildschirmfoto 2026-05-29 um 20 34 48" src="https://github.com/user-attachments/assets/24a81c54-9add-410d-9040-c909b12d150b" />
