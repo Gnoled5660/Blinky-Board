@@ -1,1 +1,10 @@
-
+Product, Cost (USD), Quantity, Purpose, Link,
+PCB, 9, 1, Main Circuit Board, JLCPCB
+Capacitor, ,1, Polarized capacitor,
+Capacitor, ,1, Unpolarized capacitor, 
+LED, ,10, LED Light,
+Resistor, ,1, Protect LED, 
+Resistor, ,1, Used as signal transmission
+Potentiometer, ,1, regulate LED speed, 
+NE555P, ,1, Timer LED light ticks, 
+CD4017BE, ,1, Control the LED, 
