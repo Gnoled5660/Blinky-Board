@@ -13,3 +13,5 @@ The next step was to assign the footprints. After assigning them, I needed to ac
 I added a bunch of memes on the board, so that it doesn't look empty. It looks really cool to me with all the prints on the board.
 
 <img width="652" height="622" alt="Bildschirmfoto 2026-05-29 um 20 34 48" src="https://github.com/user-attachments/assets/24a81c54-9add-410d-9040-c909b12d150b" />
+
+<img width="540" height="828" alt="Zine" src="https://github.com/user-attachments/assets/6e5a3a2c-8478-4c35-93e7-a8dd6313595c" />
