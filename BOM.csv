@@ -1,4 +1,4 @@
-Product, Cost (USD), Quantity, Purpose, Link
+Product, Cost (USD), Quantity, Purpose, Links
 PCB, 9, 1, Main Circuit Board, JLCPCB
 Capacitor, 0.35 ,1, Polarized capacitor, https://funduinoshop.com/en/components/passive-components/capacitors/electrolytic-capacitor-1uf/10v-wired?srsltid=AfmBOoqQb9FdG2kZhFFF8t9O4ZeooY8B8Vc7vT1f7no0LNA92BrHZAAq1vs
 Capacitor, 1.04 ,1, Unpolarized capacitor, https://www.ato.com/0-01μf-100v-ceramic-capacitor?srsltid=AfmBOopM3fsIMGztJ4Eb13Ih4VceLfDsE1TTEYmty6XPt7SKBsVQ0h2B8fc
